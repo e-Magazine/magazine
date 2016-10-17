@@ -14,7 +14,7 @@
 <!-- Generation du tableau en fonction de la base de données -->
 <table width="75%" border="1">
 	<tr>
-    <td width="12%"><b>N°Formation<b></td>
+    <td width="12%"><b>Information<b></td>
     <td width="25%"><b>Libelle formation</b></td>
     <td width="14%"><b>Modifier</b></td>
     <td width="16%"><b>Supprimer</b></td>
